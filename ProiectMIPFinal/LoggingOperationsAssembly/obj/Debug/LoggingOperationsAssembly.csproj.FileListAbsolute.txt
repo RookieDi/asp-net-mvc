@@ -1,0 +1,18 @@
+C:\Users\nicol\Desktop\ProiectMIPFinal\LoggingOperationsAssembly\obj\Debug\LoggingOperationsAssembly.csproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\ProiectMIPFinal\LoggingOperationsAssembly\obj\Debug\LoggingOperationsAssembly.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\ProiectMIPFinal\LoggingOperationsAssembly\bin\Debug\LoggingOperationsAssembly.dll
+C:\Users\nicol\Desktop\ProiectMIPFinal\LoggingOperationsAssembly\bin\Debug\LoggingOperationsAssembly.pdb
+C:\Users\nicol\Desktop\ProiectMIPFinal\LoggingOperationsAssembly\obj\Debug\LoggingOperationsAssembly.dll
+C:\Users\nicol\Desktop\ProiectMIPFinal\LoggingOperationsAssembly\obj\Debug\LoggingOperationsAssembly.pdb
+D:\Download\MagazinOnline-main\MagazinOnline-main\ProiectMIPFinal\LoggingOperationsAssembly\bin\Debug\LoggingOperationsAssembly.dll
+D:\Download\MagazinOnline-main\MagazinOnline-main\ProiectMIPFinal\LoggingOperationsAssembly\bin\Debug\LoggingOperationsAssembly.pdb
+D:\Download\MagazinOnline-main\MagazinOnline-main\ProiectMIPFinal\LoggingOperationsAssembly\obj\Debug\LoggingOperationsAssembly.csproj.AssemblyReference.cache
+D:\Download\MagazinOnline-main\MagazinOnline-main\ProiectMIPFinal\LoggingOperationsAssembly\obj\Debug\LoggingOperationsAssembly.csproj.CoreCompileInputs.cache
+D:\Download\MagazinOnline-main\MagazinOnline-main\ProiectMIPFinal\LoggingOperationsAssembly\obj\Debug\LoggingOperationsAssembly.dll
+D:\Download\MagazinOnline-main\MagazinOnline-main\ProiectMIPFinal\LoggingOperationsAssembly\obj\Debug\LoggingOperationsAssembly.pdb
+A:\.net faculta lab\proiect 3\MagazinOnline\ProiectMIPFinal\LoggingOperationsAssembly\bin\Debug\LoggingOperationsAssembly.dll
+A:\.net faculta lab\proiect 3\MagazinOnline\ProiectMIPFinal\LoggingOperationsAssembly\bin\Debug\LoggingOperationsAssembly.pdb
+A:\.net faculta lab\proiect 3\MagazinOnline\ProiectMIPFinal\LoggingOperationsAssembly\obj\Debug\LoggingOperationsAssembly.csproj.AssemblyReference.cache
+A:\.net faculta lab\proiect 3\MagazinOnline\ProiectMIPFinal\LoggingOperationsAssembly\obj\Debug\LoggingOperationsAssembly.csproj.CoreCompileInputs.cache
+A:\.net faculta lab\proiect 3\MagazinOnline\ProiectMIPFinal\LoggingOperationsAssembly\obj\Debug\LoggingOperationsAssembly.dll
+A:\.net faculta lab\proiect 3\MagazinOnline\ProiectMIPFinal\LoggingOperationsAssembly\obj\Debug\LoggingOperationsAssembly.pdb

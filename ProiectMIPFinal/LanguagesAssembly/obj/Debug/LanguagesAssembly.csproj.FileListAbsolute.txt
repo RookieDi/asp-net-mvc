@@ -1,0 +1,48 @@
+C:\Users\nicol\Desktop\ProiectMIPFinal\LanguagesAssembly\bin\Debug\LanguagesAssembly.dll
+C:\Users\nicol\Desktop\ProiectMIPFinal\LanguagesAssembly\bin\Debug\LanguagesAssembly.pdb
+C:\Users\nicol\Desktop\ProiectMIPFinal\LanguagesAssembly\obj\Debug\LanguagesAssembly.csproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\ProiectMIPFinal\LanguagesAssembly\obj\Debug\LanguagesAssembly.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\ProiectMIPFinal\LanguagesAssembly\obj\Debug\LanguagesAssembly.dll
+C:\Users\nicol\Desktop\ProiectMIPFinal\LanguagesAssembly\obj\Debug\LanguagesAssembly.pdb
+D:\Download\MagazinOnline-main\MagazinOnline-main\ProiectMIPFinal\LanguagesAssembly\bin\Debug\LanguagesAssembly.dll
+D:\Download\MagazinOnline-main\MagazinOnline-main\ProiectMIPFinal\LanguagesAssembly\bin\Debug\LanguagesAssembly.pdb
+D:\Download\MagazinOnline-main\MagazinOnline-main\ProiectMIPFinal\LanguagesAssembly\obj\Debug\LanguagesAssembly.csproj.AssemblyReference.cache
+D:\Download\MagazinOnline-main\MagazinOnline-main\ProiectMIPFinal\LanguagesAssembly\obj\Debug\LanguagesAssembly.csproj.CoreCompileInputs.cache
+D:\Download\MagazinOnline-main\MagazinOnline-main\ProiectMIPFinal\LanguagesAssembly\obj\Debug\LanguagesAssembly.dll
+D:\Download\MagazinOnline-main\MagazinOnline-main\ProiectMIPFinal\LanguagesAssembly\obj\Debug\LanguagesAssembly.pdb
+D:\Download\MagazinOnline-main\MagazinOnline-main\ProiectMIPFinal\LanguagesAssembly\bin\Debug\de-DE\LanguagesAssembly.resources.dll
+D:\Download\MagazinOnline-main\MagazinOnline-main\ProiectMIPFinal\LanguagesAssembly\bin\Debug\en-US\LanguagesAssembly.resources.dll
+D:\Download\MagazinOnline-main\MagazinOnline-main\ProiectMIPFinal\LanguagesAssembly\bin\Debug\hu-HU\LanguagesAssembly.resources.dll
+D:\Download\MagazinOnline-main\MagazinOnline-main\ProiectMIPFinal\LanguagesAssembly\bin\Debug\ro-RO\LanguagesAssembly.resources.dll
+D:\Download\MagazinOnline-main\MagazinOnline-main\ProiectMIPFinal\LanguagesAssembly\obj\Debug\LanguagesAssembly.csproj.GenerateResource.cache
+D:\Download\MagazinOnline-main\MagazinOnline-main\ProiectMIPFinal\LanguagesAssembly\obj\Debug\de-DE\LanguagesAssembly.resources.dll
+D:\Download\MagazinOnline-main\MagazinOnline-main\ProiectMIPFinal\LanguagesAssembly\obj\Debug\en-US\LanguagesAssembly.resources.dll
+D:\Download\MagazinOnline-main\MagazinOnline-main\ProiectMIPFinal\LanguagesAssembly\obj\Debug\hu-HU\LanguagesAssembly.resources.dll
+D:\Download\MagazinOnline-main\MagazinOnline-main\ProiectMIPFinal\LanguagesAssembly\obj\Debug\ro-RO\LanguagesAssembly.resources.dll
+D:\Download\MagazinOnline-main\MagazinOnline-main\ProiectMIPFinal\LanguagesAssembly\obj\Debug\LanguagesAssembly.Resources.LangResource.lg-LU.resources
+D:\Download\MagazinOnline-main\MagazinOnline-main\ProiectMIPFinal\LanguagesAssembly\obj\Debug\LanguagesAssembly.Resources.LangResource.resources
+D:\Download\MagazinOnline-main\MagazinOnline-main\ProiectMIPFinal\LanguagesAssembly\obj\Debug\LanguagesAssembly.Resources.LangResource.de-DE.resources
+D:\Download\MagazinOnline-main\MagazinOnline-main\ProiectMIPFinal\LanguagesAssembly\obj\Debug\LanguagesAssembly.Resources.LangResource.en-US.resources
+D:\Download\MagazinOnline-main\MagazinOnline-main\ProiectMIPFinal\LanguagesAssembly\obj\Debug\LanguagesAssembly.Resources.LangResource.hu-HU.resources
+D:\Download\MagazinOnline-main\MagazinOnline-main\ProiectMIPFinal\LanguagesAssembly\obj\Debug\LanguagesAssembly.Resources.LangResource.ro-RO.resources
+A:\.net faculta lab\proiect 3\MagazinOnline\ProiectMIPFinal\LanguagesAssembly\bin\Debug\LanguagesAssembly.dll
+A:\.net faculta lab\proiect 3\MagazinOnline\ProiectMIPFinal\LanguagesAssembly\bin\Debug\LanguagesAssembly.pdb
+A:\.net faculta lab\proiect 3\MagazinOnline\ProiectMIPFinal\LanguagesAssembly\bin\Debug\de-DE\LanguagesAssembly.resources.dll
+A:\.net faculta lab\proiect 3\MagazinOnline\ProiectMIPFinal\LanguagesAssembly\bin\Debug\en-US\LanguagesAssembly.resources.dll
+A:\.net faculta lab\proiect 3\MagazinOnline\ProiectMIPFinal\LanguagesAssembly\bin\Debug\hu-HU\LanguagesAssembly.resources.dll
+A:\.net faculta lab\proiect 3\MagazinOnline\ProiectMIPFinal\LanguagesAssembly\bin\Debug\ro-RO\LanguagesAssembly.resources.dll
+A:\.net faculta lab\proiect 3\MagazinOnline\ProiectMIPFinal\LanguagesAssembly\obj\Debug\LanguagesAssembly.csproj.AssemblyReference.cache
+A:\.net faculta lab\proiect 3\MagazinOnline\ProiectMIPFinal\LanguagesAssembly\obj\Debug\LanguagesAssembly.Resources.LangResource.lg-LU.resources
+A:\.net faculta lab\proiect 3\MagazinOnline\ProiectMIPFinal\LanguagesAssembly\obj\Debug\LanguagesAssembly.Resources.LangResource.resources
+A:\.net faculta lab\proiect 3\MagazinOnline\ProiectMIPFinal\LanguagesAssembly\obj\Debug\LanguagesAssembly.Resources.LangResource.de-DE.resources
+A:\.net faculta lab\proiect 3\MagazinOnline\ProiectMIPFinal\LanguagesAssembly\obj\Debug\LanguagesAssembly.Resources.LangResource.en-US.resources
+A:\.net faculta lab\proiect 3\MagazinOnline\ProiectMIPFinal\LanguagesAssembly\obj\Debug\LanguagesAssembly.Resources.LangResource.hu-HU.resources
+A:\.net faculta lab\proiect 3\MagazinOnline\ProiectMIPFinal\LanguagesAssembly\obj\Debug\LanguagesAssembly.Resources.LangResource.ro-RO.resources
+A:\.net faculta lab\proiect 3\MagazinOnline\ProiectMIPFinal\LanguagesAssembly\obj\Debug\LanguagesAssembly.csproj.GenerateResource.cache
+A:\.net faculta lab\proiect 3\MagazinOnline\ProiectMIPFinal\LanguagesAssembly\obj\Debug\LanguagesAssembly.csproj.CoreCompileInputs.cache
+A:\.net faculta lab\proiect 3\MagazinOnline\ProiectMIPFinal\LanguagesAssembly\obj\Debug\de-DE\LanguagesAssembly.resources.dll
+A:\.net faculta lab\proiect 3\MagazinOnline\ProiectMIPFinal\LanguagesAssembly\obj\Debug\en-US\LanguagesAssembly.resources.dll
+A:\.net faculta lab\proiect 3\MagazinOnline\ProiectMIPFinal\LanguagesAssembly\obj\Debug\hu-HU\LanguagesAssembly.resources.dll
+A:\.net faculta lab\proiect 3\MagazinOnline\ProiectMIPFinal\LanguagesAssembly\obj\Debug\ro-RO\LanguagesAssembly.resources.dll
+A:\.net faculta lab\proiect 3\MagazinOnline\ProiectMIPFinal\LanguagesAssembly\obj\Debug\LanguagesAssembly.dll
+A:\.net faculta lab\proiect 3\MagazinOnline\ProiectMIPFinal\LanguagesAssembly\obj\Debug\LanguagesAssembly.pdb
